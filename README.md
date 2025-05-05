@@ -1,5 +1,5 @@
  Features
-##Current Weather: Displays real-time weather data for any location.
+Current Weather: Displays real-time weather data for any location.
 
 Weather Forecast: Shows hourly and weekly weather forecasts.
 
