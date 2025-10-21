@@ -16,11 +16,7 @@ A **sleek, real-time weather app** with dynamic forecasts, intuitive icons, and 
 | **🌦️ Weather Icons**  Visualize conditions at a glance |
 | **📱 Responsive Design**  Works flawlessly on any device |
 
----
-
-## **🚀 Try It Now!**  
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/daveontrack/weather-app) *(One-click cloud setup)*  
+--- 
 
 Or run locally:  
 ```bash
